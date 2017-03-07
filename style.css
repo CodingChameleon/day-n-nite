@@ -23,4 +23,10 @@
 .sun:hover{
     border:20px solid #f1c40f; 
 }
-
+.moon{
+    background-color: #bdc3c7;
+    border: 10px solid #baeff2;
+}
+.moon:hover{
+    border:20px solid #baeff2 ;
+}
