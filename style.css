@@ -25,8 +25,32 @@
 }
 .moon{
     background-color: #bdc3c7;
-    border: 10px solid #baeff2;
+    border: 10px solid #eaeff2;
 }
 .moon:hover{
-    border:20px solid #baeff2 ;
+    border:20px solid #eaeff2 ;
+}
+#moonspot1{
+    height:140px;
+    width: 140px;
+    border-radius: 100px;
+    float: right;
+    margin:20px;
+}
+#moonspot2{
+    height:80px;
+    width: 80px;
+    border-radius: 100px;
+    float: right;
+    margin:20px;
+}
+#moonspot3{
+    height:40px;
+    width: 40px;
+    border-radius: 100px;
+    float: right;
+    margin:20px;
+}
+.visible{
+    background-color: #eaeff2;
 }
