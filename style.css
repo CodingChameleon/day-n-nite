@@ -51,6 +51,9 @@
     float: right;
     margin:20px;
 }
-.visible{
+.dark{
     background-color: #eaeff2;
+}
+.light{
+    background-color: #f1c40f;
 }
